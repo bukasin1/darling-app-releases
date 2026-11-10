@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "app": {
+    "apk": {
+      "version": null,
+      "url": "https://github.com/bukasin1/darling-app-releases/releases/latest/download/darling-app.apk"
+    }
+  },
+  "ota": {
+    "version": "v8acab94",
+    "url": "https://github.com/bukasin1/darling-app-releases/releases/download/ota-v8acab94/live-update-v8acab94.zip",
+    "checksum": "de123dc13ce1404964dc7270915e7bd0629227830f6857ff8f6703785b430428"
+  }
+}
