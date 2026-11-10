@@ -1,11 +1,11 @@
 {
-  "id": "v8acab94",
-  "createdAt": "2026-11-10T21:33:05.336Z",
+  "id": "vc7d5489",
+  "createdAt": "2026-11-10T22:37:10.952Z",
   "runtimeVersion": "1.0.0",
   "launchAsset": {
-    "key": "bundle-v8acab94",
+    "key": "bundle-vc7d5489",
     "contentType": "application/javascript",
-    "url": "https://github.com/bukasin1/darling-app-releases/releases/download/ota-v8acab94/live-update-v8acab94.zip"
+    "url": "https://github.com/bukasin1/darling-app-releases/releases/download/ota-vc7d5489/live-update-vc7d5489.zip"
   },
   "assets": [],
   "metadata": {}
