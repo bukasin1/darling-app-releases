@@ -1,11 +1,11 @@
 {
-  "id": "vd639c86",
-  "createdAt": "2026-11-11T00:48:02.398Z",
+  "id": "v5a5f948",
+  "createdAt": "2026-11-11T06:38:39.913Z",
   "runtimeVersion": "1.0.0",
   "launchAsset": {
-    "key": "bundle-vd639c86",
+    "key": "bundle-v5a5f948",
     "contentType": "application/javascript",
-    "url": "https://github.com/bukasin1/darling-app-releases/releases/download/ota-vd639c86/live-update-vd639c86.zip"
+    "url": "https://github.com/bukasin1/darling-app-releases/releases/download/ota-v5a5f948/live-update-v5a5f948.zip"
   },
   "assets": [],
   "metadata": {}
