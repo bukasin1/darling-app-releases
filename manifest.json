@@ -1,11 +1,11 @@
 {
-  "id": "v7eba60b",
-  "createdAt": "2026-11-11T00:14:37.154Z",
+  "id": "vd639c86",
+  "createdAt": "2026-11-11T00:48:02.398Z",
   "runtimeVersion": "1.0.0",
   "launchAsset": {
-    "key": "bundle-v7eba60b",
+    "key": "bundle-vd639c86",
     "contentType": "application/javascript",
-    "url": "https://github.com/bukasin1/darling-app-releases/releases/download/ota-v7eba60b/live-update-v7eba60b.zip"
+    "url": "https://github.com/bukasin1/darling-app-releases/releases/download/ota-vd639c86/live-update-vd639c86.zip"
   },
   "assets": [],
   "metadata": {}
