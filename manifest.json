@@ -1,11 +1,11 @@
 {
-  "id": "va1ddfa0",
-  "createdAt": "2026-11-13T09:18:34.900Z",
+  "id": "v47cf854",
+  "createdAt": "2026-11-13T13:31:24.630Z",
   "runtimeVersion": "1.0.0",
   "launchAsset": {
-    "key": "bundle-va1ddfa0",
+    "key": "bundle-v47cf854",
     "contentType": "application/javascript",
-    "url": "https://github.com/bukasin1/darling-app-releases/releases/download/ota-va1ddfa0/live-update-va1ddfa0.zip"
+    "url": "https://github.com/bukasin1/darling-app-releases/releases/download/ota-v47cf854/live-update-v47cf854.zip"
   },
   "assets": [],
   "metadata": {}
