@@ -7,8 +7,8 @@
     }
   },
   "ota": {
-    "version": "v4f96432",
-    "url": "https://github.com/bukasin1/darling-app-releases/releases/download/ota-v4f96432/live-update-v4f96432.zip",
-    "checksum": "ed4796a476cd42f37b24434762a0a067358b8eb5476236df2e90d7f9963d3461"
+    "version": "v84b55cd",
+    "url": "https://github.com/bukasin1/darling-app-releases/releases/download/ota-v84b55cd/live-update-v84b55cd.zip",
+    "checksum": "d2a82e386a36577cec8a47984caeafa4a2a7ba9ec1f39a16d312f8511901b159"
   }
 }
