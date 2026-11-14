@@ -1,11 +1,11 @@
 {
-  "id": "vf27c882",
-  "createdAt": "2026-11-13T23:18:51.184Z",
+  "id": "v4a8dceb",
+  "createdAt": "2026-11-14T01:30:31.848Z",
   "runtimeVersion": "1.0.0",
   "launchAsset": {
-    "key": "bundle-vf27c882",
+    "key": "bundle-v4a8dceb",
     "contentType": "application/javascript",
-    "url": "https://github.com/bukasin1/darling-app-releases/releases/download/ota-vf27c882/live-update-vf27c882.zip"
+    "url": "https://github.com/bukasin1/darling-app-releases/releases/download/ota-v4a8dceb/live-update-v4a8dceb.zip"
   },
   "assets": [],
   "metadata": {}
