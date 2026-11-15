@@ -1,12 +1,15 @@
 {
-  "id": "vf22e514",
-  "createdAt": "2026-11-15T13:24:05.779Z",
+  "id": "60d799a0-3be0-46cc-a706-3b68719feffd",
+  "createdAt": "2026-11-15T16:32:29.272Z",
   "runtimeVersion": "1.0.0",
   "launchAsset": {
-    "key": "bundle-vf22e514",
+    "key": "bundle-v79beaa9",
     "contentType": "application/javascript",
-    "url": "https://github.com/bukasin1/darling-app-releases/releases/download/ota-vf22e514/live-update-vf22e514.zip"
+    "url": "https://github.com/bukasin1/darling-app-releases/releases/download/ota-v79beaa9/bundle-v79beaa9.hbc"
   },
   "assets": [],
-  "metadata": {}
+  "metadata": {
+    "version": "v79beaa9",
+    "commit": "79beaa963f7d89c00c8b88178aaa09c3af375b99"
+  }
 }
