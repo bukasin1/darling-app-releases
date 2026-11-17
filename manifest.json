@@ -1,15 +1,15 @@
 {
-  "id": "c2a4f0fa-52a3-43e3-aeb2-7390241353ee",
-  "createdAt": "2026-11-17T14:29:33.376Z",
+  "id": "2b592230-f1de-46f0-aade-81571b0a0f1f",
+  "createdAt": "2026-11-17T16:14:38.026Z",
   "runtimeVersion": "1.0.0",
   "launchAsset": {
-    "key": "bundle-vc654cfb",
+    "key": "bundle-ve08a8ad",
     "contentType": "application/javascript",
-    "url": "https://github.com/bukasin1/darling-app-releases/releases/download/ota-vc654cfb/bundle-vc654cfb.hbc"
+    "url": "https://github.com/bukasin1/darling-app-releases/releases/download/ota-ve08a8ad/bundle-ve08a8ad.hbc"
   },
   "assets": [],
   "metadata": {
-    "version": "vc654cfb",
-    "commit": "c654cfb63afcc2328f42fdf6a219419b8ae4eac2"
+    "version": "ve08a8ad",
+    "commit": "e08a8ad38fb85edb15c8c44c890628c3d6ff9562"
   }
 }
