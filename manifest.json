@@ -1,15 +1,15 @@
 {
-  "id": "2105db83-c9ca-49d2-aebc-307f2c2a5587",
-  "createdAt": "2026-11-17T20:35:28.763Z",
+  "id": "51d732c3-9d92-40fe-affe-328c3e8d7248",
+  "createdAt": "2026-11-17T22:12:09.382Z",
   "runtimeVersion": "1.0.0",
   "launchAsset": {
-    "key": "bundle-v0270d21",
+    "key": "bundle-v1906111",
     "contentType": "application/javascript",
-    "url": "https://github.com/bukasin1/darling-app-releases/releases/download/ota-v0270d21/bundle-v0270d21.hbc"
+    "url": "https://github.com/bukasin1/darling-app-releases/releases/download/ota-v1906111/bundle-v1906111.hbc"
   },
   "assets": [],
   "metadata": {
-    "version": "v0270d21",
-    "commit": "0270d21fc7b81f24624c6557c9348d40bfdfae80"
+    "version": "v1906111",
+    "commit": "19061115dc9246671d7ceb213697d6dc102ea211"
   }
 }
